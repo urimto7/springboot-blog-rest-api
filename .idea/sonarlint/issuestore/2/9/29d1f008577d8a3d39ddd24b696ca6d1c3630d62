@@ -1,0 +1,11 @@
+
+†
+java:S1488'"dImmediately return this expression instead of assigning it to the temporary variable "postResponse".(Ü¢»ïÿÿÿÿÿ8Œ´’¿1
+Z
+java:S18541"8Remove this useless assignment to local variable "sort".(æúÁüùÿÿÿÿ8˜Œ´’¿1
+K
+java:S14811")Remove this unused "sort" local variable.(æúÁüùÿÿÿÿ8›Œ´’¿1
+o
+java:S6204;"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¯´®ÿ8›Œ´’¿1
+X
+java:S1612;";Replace this lambda with method reference 'this::mapToDto'.(¯´®ÿ8œŒ´’¿1
